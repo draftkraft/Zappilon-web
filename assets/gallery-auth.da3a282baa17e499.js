@@ -1,0 +1,1 @@
+typeof firebase<"u"&&firebase.apps&&!firebase.apps.length&&firebase.initializeApp({apiKey:"AIzaSyDgi51aPSGP-14vgCAWPIkLNiIcxE2dBgI",authDomain:"pokemario-3eb3f.firebaseapp.com",projectId:"pokemario-3eb3f",storageBucket:"pokemario-3eb3f.firebasestorage.app",messagingSenderId:"530342736172",appId:"1:530342736172:web:6ac5790cb467510c517c89",measurementId:"G-S4H3RY2JD6"});
